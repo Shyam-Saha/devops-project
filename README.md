@@ -11,3 +11,6 @@ This project is part of my DevOps learning journey.
 
 Started on: Feb 2026
 
+## Phase 1
+- Git Mastery
+- Flask Application Setup
